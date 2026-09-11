@@ -1,0 +1,15 @@
+{
+  "short_name": "Nova",
+  "name": "Nova AI",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/helmyalmohia5-eng/Nova_AI.Pros/main/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
